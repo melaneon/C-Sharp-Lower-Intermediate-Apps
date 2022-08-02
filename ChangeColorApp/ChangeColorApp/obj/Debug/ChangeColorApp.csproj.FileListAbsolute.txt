@@ -1,0 +1,21 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\ChangeColorApp\ChangeColorApp\bin\Debug\ChangeColorApp.exe.config
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\ChangeColorApp\ChangeColorApp\bin\Debug\ChangeColorApp.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\ChangeColorApp\ChangeColorApp\bin\Debug\ChangeColorApp.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.Form1.resources
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.Properties.Resources.resources
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.csproj.GenerateResource.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.pdb
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\ChangeColorApp\ChangeColorApp\bin\Debug\ChangeColorApp.exe.config
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\ChangeColorApp\ChangeColorApp\bin\Debug\ChangeColorApp.exe
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\ChangeColorApp\ChangeColorApp\bin\Debug\ChangeColorApp.pdb
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.csproj.SuggestedBindingRedirects.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.Form1.resources
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.Properties.Resources.resources
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.csproj.GenerateResource.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.exe
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\ChangeColorApp\ChangeColorApp\obj\Debug\ChangeColorApp.pdb

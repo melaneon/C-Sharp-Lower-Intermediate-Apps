@@ -1,0 +1,31 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\bin\Debug\Simple Encoder.exe.config
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\bin\Debug\Simple Encoder.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\bin\Debug\Simple Encoder.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\obj\Debug\Simple_Encoder.Form1.resources
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\obj\Debug\Simple_Encoder.Properties.Resources.resources
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.csproj.GenerateResource.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.pdb
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\bin\Debug\Simple Encoder.exe.config
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\bin\Debug\Simple Encoder.exe
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\bin\Debug\Simple Encoder.pdb
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.csprojAssemblyReference.cache
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\obj\Debug\Simple_Encoder.Form1.resources
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\obj\Debug\Simple_Encoder.Properties.Resources.resources
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.csproj.GenerateResource.cache
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.csproj.CoreCompileInputs.cache
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.exe
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.pdb
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\Simple Encoder\Simple Encoder\bin\Debug\Simple Encoder.exe.config
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\Simple Encoder\Simple Encoder\bin\Debug\Simple Encoder.exe
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\Simple Encoder\Simple Encoder\bin\Debug\Simple Encoder.pdb
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.csproj.SuggestedBindingRedirects.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\Simple Encoder\Simple Encoder\obj\Debug\Simple_Encoder.Form1.resources
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\Simple Encoder\Simple Encoder\obj\Debug\Simple_Encoder.Properties.Resources.resources
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.csproj.GenerateResource.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.exe
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\Simple Encoder\Simple Encoder\obj\Debug\Simple Encoder.pdb

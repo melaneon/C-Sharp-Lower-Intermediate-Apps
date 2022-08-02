@@ -1,0 +1,21 @@
+M:\Fall_2020-2021\ICS114\final\OrderTreatsApp\OrderTreatsApp\bin\Debug\OrderTreatsApp.exe.config
+M:\Fall_2020-2021\ICS114\final\OrderTreatsApp\OrderTreatsApp\bin\Debug\OrderTreatsApp.exe
+M:\Fall_2020-2021\ICS114\final\OrderTreatsApp\OrderTreatsApp\bin\Debug\OrderTreatsApp.pdb
+M:\Fall_2020-2021\ICS114\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.Roam.resources
+M:\Fall_2020-2021\ICS114\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.Properties.Resources.resources
+M:\Fall_2020-2021\ICS114\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.csproj.GenerateResource.cache
+M:\Fall_2020-2021\ICS114\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.exe
+M:\Fall_2020-2021\ICS114\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.pdb
+D:\Tech Portfolio\GitHub\C# Mini Projects\final\OrderTreatsApp\OrderTreatsApp\bin\Debug\OrderTreatsApp.exe.config
+D:\Tech Portfolio\GitHub\C# Mini Projects\final\OrderTreatsApp\OrderTreatsApp\bin\Debug\OrderTreatsApp.exe
+D:\Tech Portfolio\GitHub\C# Mini Projects\final\OrderTreatsApp\OrderTreatsApp\bin\Debug\OrderTreatsApp.pdb
+D:\Tech Portfolio\GitHub\C# Mini Projects\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.csproj.SuggestedBindingRedirects.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.Roam.resources
+D:\Tech Portfolio\GitHub\C# Mini Projects\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.Properties.Resources.resources
+D:\Tech Portfolio\GitHub\C# Mini Projects\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.csproj.GenerateResource.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.exe
+D:\Tech Portfolio\GitHub\C# Mini Projects\final\OrderTreatsApp\OrderTreatsApp\obj\Debug\OrderTreatsApp.pdb

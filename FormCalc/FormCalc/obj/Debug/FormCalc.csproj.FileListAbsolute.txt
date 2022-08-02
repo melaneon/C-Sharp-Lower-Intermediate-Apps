@@ -1,0 +1,31 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\bin\Debug\FormCalc.exe.config
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\bin\Debug\FormCalc.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\bin\Debug\FormCalc.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\obj\Debug\FormCalc.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\obj\Debug\FormCalc.Form1.resources
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\obj\Debug\FormCalc.Properties.Resources.resources
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\obj\Debug\FormCalc.csproj.GenerateResource.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\obj\Debug\FormCalc.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\obj\Debug\FormCalc.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\obj\Debug\FormCalc.pdb
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\bin\Debug\FormCalc.exe.config
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\bin\Debug\FormCalc.exe
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\bin\Debug\FormCalc.pdb
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\obj\Debug\FormCalc.csprojAssemblyReference.cache
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\obj\Debug\FormCalc.Form1.resources
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\obj\Debug\FormCalc.Properties.Resources.resources
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\obj\Debug\FormCalc.csproj.GenerateResource.cache
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\obj\Debug\FormCalc.csproj.CoreCompileInputs.cache
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\obj\Debug\FormCalc.exe
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\FormCalc\FormCalc\obj\Debug\FormCalc.pdb
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\FormCalc\FormCalc\bin\Debug\FormCalc.exe.config
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\FormCalc\FormCalc\bin\Debug\FormCalc.exe
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\FormCalc\FormCalc\bin\Debug\FormCalc.pdb
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\FormCalc\FormCalc\obj\Debug\FormCalc.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\FormCalc\FormCalc\obj\Debug\FormCalc.csproj.SuggestedBindingRedirects.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\FormCalc\FormCalc\obj\Debug\FormCalc.Form1.resources
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\FormCalc\FormCalc\obj\Debug\FormCalc.Properties.Resources.resources
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\FormCalc\FormCalc\obj\Debug\FormCalc.csproj.GenerateResource.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\FormCalc\FormCalc\obj\Debug\FormCalc.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\FormCalc\FormCalc\obj\Debug\FormCalc.exe
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\FormCalc\FormCalc\obj\Debug\FormCalc.pdb

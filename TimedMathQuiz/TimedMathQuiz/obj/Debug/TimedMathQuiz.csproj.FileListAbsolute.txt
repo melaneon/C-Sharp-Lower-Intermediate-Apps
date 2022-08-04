@@ -1,0 +1,31 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\bin\Debug\TimedMathQuiz.exe.config
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\bin\Debug\TimedMathQuiz.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\bin\Debug\TimedMathQuiz.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.Form1.resources
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.Properties.Resources.resources
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.csproj.GenerateResource.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.pdb
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\bin\Debug\TimedMathQuiz.exe.config
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\bin\Debug\TimedMathQuiz.exe
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\bin\Debug\TimedMathQuiz.pdb
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.csprojAssemblyReference.cache
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.Form1.resources
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.Properties.Resources.resources
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.csproj.GenerateResource.cache
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.csproj.CoreCompileInputs.cache
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.exe
+M:\drive\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab09\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.pdb
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\TimedMathQuiz\TimedMathQuiz\bin\Debug\TimedMathQuiz.exe.config
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\TimedMathQuiz\TimedMathQuiz\bin\Debug\TimedMathQuiz.exe
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\TimedMathQuiz\TimedMathQuiz\bin\Debug\TimedMathQuiz.pdb
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.csproj.SuggestedBindingRedirects.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.Form1.resources
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.Properties.Resources.resources
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.csproj.GenerateResource.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.exe
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 8\TimedMathQuiz\TimedMathQuiz\obj\Debug\TimedMathQuiz.pdb
